@@ -484,3 +484,15 @@ $RECYCLE.BIN/
 *.swp
 obj/Debug/net8.0/testConsole.AssemblyInfo.cs
 obj/Debug/net8.0/testConsole.AssemblyInfoInputs.cache
+bin/Debug/net8.0/testConsole.dll
+bin/Debug/net8.0/testConsole.dll
+bin/Debug/net8.0/testConsole.dll
+bin/Debug/net8.0/testConsole.exe
+bin/Debug/net8.0/testConsole.pdb
+obj/Debug/net8.0/apphost.exe
+obj/Debug/net8.0/testConsole.AssemblyInfo.cs
+obj/Debug/net8.0/testConsole.AssemblyInfoInputs.cache
+obj/Debug/net8.0/testConsole.dll
+obj/Debug/net8.0/testConsole.pdb
+obj/Debug/net8.0/ref/testConsole.dll
+obj/Debug/net8.0/refint/testConsole.dll
