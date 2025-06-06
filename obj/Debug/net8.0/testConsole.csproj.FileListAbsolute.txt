@@ -12,3 +12,4 @@ C:\Sources\Repos\Perso\Artza\testConsole\obj\Debug\net8.0\refint\testConsole.dll
 C:\Sources\Repos\Perso\Artza\testConsole\obj\Debug\net8.0\testConsole.pdb
 C:\Sources\Repos\Perso\Artza\testConsole\obj\Debug\net8.0\testConsole.genruntimeconfig.cache
 C:\Sources\Repos\Perso\Artza\testConsole\obj\Debug\net8.0\ref\testConsole.dll
+C:\Sources\Repos\Perso\Artza\testConsole\obj\Debug\net8.0\testConsole.sourcelink.json
