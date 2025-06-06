@@ -6,6 +6,8 @@ public class Voiture
     public string Couleur { get; set; }
     public int Kilometrage { get; set; }
     public double Prix { get; set; }
+    public bool EstDisponible { get; set; } = true;
+    public string Description { get; set; }
 
     public Voiture(string marque, string modele, int annee, string couleur)
     {
